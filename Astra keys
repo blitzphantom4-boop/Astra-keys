@@ -1,5 +1,6 @@
-ASTRA-001|infinito     ← permanente
-ASTRA-002|60           ← 60 minutos
-ASTRA-003|30           ← 30 minutos  
-ASTRA-004|1440         ← 1 día (24hrs)
-ASTRA-005|10080        ← 1 semana
+
+ASTRA_001_infinito
+ASTRA_002_60
+ASTRA_003_30
+ASTRA_004_1440
+ASTRA_005_10080
